@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @m4vi
-- 👀 I’m interested in learning front end programming.
 - 🌱 I’m currently learning to improve myself in the area
 - 📫 How to reach me www.linkedin.com/in/maria-vittória-sousa-rodrigues-palma
 
